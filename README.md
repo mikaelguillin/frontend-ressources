@@ -46,6 +46,9 @@ Une liste de ressources liées au développement front-end
 * [Google fonts](https://fonts.google.com) : Met à disposition de nombreuses fonts diverses et variées
 * [Online font converter](https://onlinefontconverter.com) : Convertit vos fonts dans divers formats
 
+## SVG
+* [SVGOMG](https://jakearchibald.github.io/svgomg) : Nettoie les fichiers SVG
+
 ## Drupal
 * [Gestion des assets avec Drupal 8](http://flocondetoile.fr/blog/la-gestion-des-librairies-avec-drupal-8)
 
