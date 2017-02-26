@@ -25,6 +25,10 @@ Une liste de ressources liées au développement front-end
 
 ## Javascript
 * [JS Attitude](http://www.js-attitude.fr) : Articles regroupant quelques bonnes pratiques javascript
+* [Node school](https://nodeschool.io) : Exercices interactifs sur javascript et node.js
+* [You might not need jQuery](http://youmightnotneedjquery.com) : Equivalents des fonctions jQuery couremment utilisées en javascript natif
+* [JS Tips](http://www.jstips.co) : Astuces et bonnes pratiques
+* [ES6 interactive guide](http://stack.formidable.com/es6-interactive-guide) : Guide interactif sur les fonctionnalités ES6
 
 ### Librairies JS
 * [Browsersync](https://browsersync.io) : Module node.js pour rafraîchir automatiquement la page sur tous les navigateurs
