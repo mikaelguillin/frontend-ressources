@@ -2,7 +2,7 @@
 Une liste de ressources liées au développement front-end
 
 ## Général
-* [Caniuse](http://caniuse.com) : Tableaux de compatibilité des technos front
+* [Caniuse](http://caniuse.com) : Tableaux de compatibilité navigateurs
 * [Codepen](http://codepen.io) : Gallerie de projets front, idéal pour trouver des bases pour vos propres projets
 * [Devdocs](http://devdocs.io) : Web app regroupant de nombreuses documentations de technos front et back
 * [Alsacréations](http://www.alsacreations.com) : Blog traitant de sujets front basiques
