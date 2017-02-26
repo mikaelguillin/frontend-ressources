@@ -26,6 +26,18 @@ Une liste de ressources liées au développement front-end
 ## Javascript
 * [JS Attitude](http://www.js-attitude.fr) : Articles regroupant quelques bonnes pratiques javascript
 
+### Librairies JS
+* [Browsersync](https://browsersync.io) : Module node.js pour rafraîchir automatiquement la page sur tous les navigateurs
+* [Modernizr](https://modernizr.com) : Détecter les fonctionnalités navigateurs
+* [JS Cookie](https://github.com/js-cookie/js-cookie) : Manipuler simplement des cookies
+* [Owl Carousel 2](http://owlcarousel2.github.io/OwlCarousel2) : Mettre en place des carrousels responsives
+* [Owl Carousel 2 Thumbs](https://github.com/gijsroge/OwlCarousel2-Thumbs) : Ajoute des vignettes pour owl carousel
+* [Headroom](http://wicky.nillia.ms/headroom.js) : Mettre en place un header sticky
+* [jRespond](https://github.com/ten1seven/jRespond) : Exécuter des fonctions selon les breakpoints
+* [Masonry](http://masonry.desandro.com) : Faire des mises en pages complexes de type mosaïque
+* [Moment.js](https://momentjs.com) : Manipuler facilement les dates
+* [Lodash](https://lodash.com) : Librairie d'utilitaires pour manipuler arrays, strings, etc ...
+
 ## Fonts
 * [Google fonts](https://fonts.google.com) : Met à disposition de nombreuses fonts diverses et variées
 * [Online font converter](https://onlinefontconverter.com) : Convertit vos fonts dans divers formats
