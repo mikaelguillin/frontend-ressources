@@ -22,6 +22,15 @@ Une liste de ressources liées au développement front-end
 ### Sass
 * [Sass-guidelines](https://sass-guidelin.es/fr) : Des guidelines pour Sass
 
+### Twitter
+* [@goetter](https://twitter.com/goetter)
+* [@Nico3333fr](https://twitter.com/Nico3333fr)
+* [@nhoizey](https://twitter.com/nhoizey)
+* [@chriscoyier](https://twitter.com/chriscoyier)
+* [@rachelandrew](https://twitter.com/rachelandrew)
+* [@SaraSoueidan](https://twitter.com/SaraSoueidan)
+* [@LeaVerou](https://twitter.com/LeaVerou)
+* [@Una](https://twitter.com/Una)
 
 ## Javascript
 * [JS Attitude](http://www.js-attitude.fr) : Articles regroupant quelques bonnes pratiques javascript
@@ -29,6 +38,14 @@ Une liste de ressources liées au développement front-end
 * [You might not need jQuery](http://youmightnotneedjquery.com) : Equivalents des fonctions jQuery couramment utilisées en javascript natif
 * [JS Tips](http://www.jstips.co) : Astuces et bonnes pratiques
 * [ES6 interactive guide](http://stack.formidable.com/es6-interactive-guide) : Guide interactif sur les fonctionnalités ES6
+
+### Twitter
+* [@porteneuve](https://twitter.com/porteneuve)
+* [@addyosmani](https://twitter.com/addyosmani)
+* [@MoOx](https://twitter.com/MoOx)
+* [@Swiip](https://twitter.com/Swiip)
+* [@codepo8](https://twitter.com/codepo8)
+* [@davidwalshblog](https://twitter.com/davidwalshblog)
 
 ### Librairies JS
 * [Browsersync](https://browsersync.io) : Module node.js pour rafraîchir automatiquement la page sur tous les navigateurs
@@ -52,12 +69,14 @@ Une liste de ressources liées au développement front-end
 ## Drupal
 * [Gestion des assets avec Drupal 8](http://flocondetoile.fr/blog/la-gestion-des-librairies-avec-drupal-8)
 
+### Twitter
+* [@Flocondetoile](https://twitter.com/Flocondetoile)
+* [@Artusamak](https://twitter.com/Artusamak)
+* [@piouPiouM](https://twitter.com/piouPiouM)
+* [@GoZOo](https://twitter.com/GoZOo)
+
 ## Emails
 * [emails.hteumeuleu.fr](http://emails.hteumeuleu.fr) : Blog sur l'intégration d'e-mails
 * [campaignmonitor.com/css](https://www.campaignmonitor.com/css) : Tableau de compatibilité CSS
 * [backgrounds.cm](https://backgrounds.cm) : Méthode pour créer des backgrounds dans des emails
-
-## Twitter
-* [@goetter](https://twitter.com/goetter)
-* [@Nico3333fr](https://twitter.com/Nico3333fr)
-* [@MoOx](https://twitter.com/MoOx)
+* [Fresh inbox](http://freshinbox.com) : Blog sur l'intégration d'e-mails
