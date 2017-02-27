@@ -11,6 +11,7 @@ Une liste de ressources liées au développement front-end
 * [Grafikart](http://grafikart.fr) : Tutoriels vidéos sur des technos front et back
 * [Tiny PNG](https://tinypng.com) : Réduit drastiquement le poids de vos PNG ou JPEG
 
+
 ## HTML
 
 
@@ -33,20 +34,13 @@ Une liste de ressources liées au développement front-end
 * [@LeaVerou](https://twitter.com/LeaVerou)
 * [@Una](https://twitter.com/Una)
 
+
 ## Javascript
 * [JS Attitude](http://www.js-attitude.fr) : Articles regroupant quelques bonnes pratiques javascript
 * [Node school](https://nodeschool.io) : Exercices interactifs sur javascript et node.js
 * [You might not need jQuery](http://youmightnotneedjquery.com) : Equivalents des fonctions jQuery couramment utilisées en javascript natif
 * [JS Tips](http://www.jstips.co) : Astuces et bonnes pratiques
 * [ES6 interactive guide](http://stack.formidable.com/es6-interactive-guide) : Guide interactif sur les fonctionnalités ES6
-
-### Twitter
-* [@porteneuve](https://twitter.com/porteneuve)
-* [@addyosmani](https://twitter.com/addyosmani)
-* [@MoOx](https://twitter.com/MoOx)
-* [@Swiip](https://twitter.com/Swiip)
-* [@codepo8](https://twitter.com/codepo8)
-* [@davidwalshblog](https://twitter.com/davidwalshblog)
 
 ### Librairies JS
 * [Browsersync](https://browsersync.io) : Module node.js pour rafraîchir automatiquement la page sur tous les navigateurs
@@ -60,12 +54,23 @@ Une liste de ressources liées au développement front-end
 * [Moment.js](https://momentjs.com) : Manipuler facilement les dates
 * [Lodash](https://lodash.com) : Librairie d'utilitaires pour manipuler arrays, strings, etc ...
 
+### Twitter
+* [@porteneuve](https://twitter.com/porteneuve)
+* [@addyosmani](https://twitter.com/addyosmani)
+* [@MoOx](https://twitter.com/MoOx)
+* [@Swiip](https://twitter.com/Swiip)
+* [@codepo8](https://twitter.com/codepo8)
+* [@davidwalshblog](https://twitter.com/davidwalshblog)
+
+
 ## Fonts
 * [Google fonts](https://fonts.google.com) : Met à disposition de nombreuses fonts diverses et variées
 * [Online font converter](https://onlinefontconverter.com) : Convertit vos fonts dans divers formats
 
+
 ## SVG
 * [SVGOMG](https://jakearchibald.github.io/svgomg) : Nettoie les fichiers SVG
+
 
 ## Drupal
 * [Gestion des assets avec Drupal 8](http://flocondetoile.fr/blog/la-gestion-des-librairies-avec-drupal-8)
@@ -75,6 +80,7 @@ Une liste de ressources liées au développement front-end
 * [@Artusamak](https://twitter.com/Artusamak)
 * [@piouPiouM](https://twitter.com/piouPiouM)
 * [@GoZOo](https://twitter.com/GoZOo)
+
 
 ## Emails
 * [emails.hteumeuleu.fr](http://emails.hteumeuleu.fr) : Blog sur l'intégration d'e-mails
