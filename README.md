@@ -2,6 +2,7 @@
 Une liste de ressources liées au développement front-end
 
 ## Général
+* [Frontend dev bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) : Une autre liste de ressources pour le front
 * [Caniuse](http://caniuse.com) : Tableaux de compatibilité navigateurs
 * [Codepen](http://codepen.io) : Gallerie de projets front, idéal pour trouver des bases pour vos propres projets
 * [Devdocs](http://devdocs.io) : Web app regroupant de nombreuses documentations de technos front et back
